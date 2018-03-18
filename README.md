@@ -5,6 +5,8 @@
 [![Documentation Status](https://readthedocs.org/projects/difacto/badge/?version=latest)](http://difacto.readthedocs.org/en/latest/?badge=latest)
 [![GitHub license](http://dmlc.github.io/img/apache2.svg)](./LICENSE)
 
+Insert a test line
+
 Fast and memory efficient library for factorization machines (FM).
 
 - Supports both ℓ1 regularized logistic regression and factorization
